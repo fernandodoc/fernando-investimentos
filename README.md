@@ -57,6 +57,6 @@ Como apaixonado por tecnologia e especialista no mercado de capitais, desenvolvi
 ### Tecnologia (Stack)
 - **Linguagem:** Python.
 - **Bibliotecas:** Pandas, NumPy, Plotly/Matplotlib (ferramentas de análise de dados).
-- **APIs:** Integração com fontes de dados financeiros (Bacen, Yahoo Finance, Alpha Vantage, HG Brasil (Finance), Financial Modeling Prep, CoinGecko, Brapi etc).
+- **APIs:** Integração com fontes de dados financeiros (Bacen, Yahoo Finance, Alpha Vantage, HG Brasil, Financial Modeling Prep, CoinGecko, Brapi etc).
 
 ---
