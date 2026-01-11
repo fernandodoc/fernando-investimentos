@@ -14,7 +14,7 @@ Como apaixonado por tecnologia e especialista no mercado de capitais, desenvolvi
 
 ---
 
-## 🏛️ Filosofia de Mercado (Quotes)
+## 🏛️ Filosofia de Mercado
 
 > "O investimento deve ser baseado em conhecimento, não em palpites." 
 > — **Benjamin Graham** (O pai da Análise Fundamentalista)
@@ -55,8 +55,8 @@ Como apaixonado por tecnologia e especialista no mercado de capitais, desenvolvi
 - **Gestão de Risco:** Monitoramento de exposição por setor e classe de ativos.
 
 ### Tecnologia (Stack)
-- **Linguagem:** Python / JavaScript (ajuste conforme seu código).
+- **Linguagem:** Python.
 - **Bibliotecas:** Pandas, NumPy, Plotly/Matplotlib (ferramentas de análise de dados).
-- **APIs:** Integração com fontes de dados financeiros (Yahoo Finance, Alpha Vantage, etc).
+- **APIs:** Integração com fontes de dados financeiros (Bacen, Yahoo Finance, Alpha Vantage, HG Brasil (Finance), Financial Modeling Prep, CoinGecko, Brapi etc).
 
 ---
